@@ -1,10 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-
-
 contract MyToken is ERC20, Ownable {
-    constructor() ERC20("Avni", "AC") {}
+    constructor() ERC20("Ananya Sharma", "AS") {}
 
     function mint(address to, uint256 amount) public onlyOwner {
         _mint(to, amount);

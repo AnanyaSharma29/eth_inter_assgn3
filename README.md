@@ -66,6 +66,7 @@ To run the contract, follow these steps:
 
 Ananya Sharma
 
+[Ananya@02](https://academy.metacrafters.io/profile)
 ## License
 
 This code is released under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
